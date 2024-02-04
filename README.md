@@ -1,3 +1,4 @@
+![](https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/pass/1CFAeP1I6qiU-ZMb-O4xyOA.gif)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarthak Chaure
 ======================================================================================================================================
 
