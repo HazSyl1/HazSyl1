@@ -1,4 +1,4 @@
-![image](https://github.com/HazSyl1/HazSyl1/assets/106075510/6c2f8dae-16ee-4a7c-be47-cafe3addd7c4)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarthak Chaure
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarthak Chaure
 ======================================================================================================================================
 
 AI ML Connoisseur
