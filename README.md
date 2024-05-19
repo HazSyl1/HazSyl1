@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarthak Chaure
 ======================================================================================================================================
 
-AI ML Connoisseur
+AI ML Connoisseur (Does Web Dev and Cyber Security as well )
 -----------------
 
 I'm currently working on developing and integrating Deep Learning and Machine Learning with WebApps and also working on the latest trends such as LLM's , GANS.
