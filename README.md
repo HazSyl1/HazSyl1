@@ -1,38 +1,75 @@
-![](1CFAeP1I6qiU-ZMb-O4xyOA-ezgif.com-resize.gif)
+<h1 align="left">Hi, I'm Sarthak Chaure 👋</h1>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarthak Chaure
-======================================================================================================================================
+### AI Engineer · Full Stack + Agentic Systems
 
-AI ML Connoisseur (Does Web Dev and Cyber Security as well )
------------------
+I build multi-agent architectures and agentic workflows using LangGraph, LangChain, and production LLM systems — combined with a full-stack engineering background across Python, TypeScript/React, and .NET. I care about making AI systems reliable in production, not just impressive in a demo.
 
-I'm currently working on developing and integrating Deep Learning and Machine Learning with WebApps and also working on the latest trends such as LLM's , GANS.
+📄 **Resume:** [Link](your-resume-link-here)
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [sarchaure911@gmail.com](mailto:sarchaure911@gmail.com)
-* 🧠  I'm learning Attention Mech and GenAI
-* 🤝  I'm open to collaborating on Anything that interests me and my profile.
-* ⚡  Also happens to find music , medieval arts ,psychology intriguing.
+- 🌍 Based in Nagpur, India
+- ✉️ Reach me at [sarchaure911@gmail.com](mailto:sarchaure911@gmail.com)
+- 🤝 Open to collaborating on agentic AI systems, RAG pipelines, and full-stack products
+- 🏆 Indian Patent holder (self-service printing kiosk architecture) · Published researcher (ML phishing detection, Springer DOSCI 2024)
+- ⚡ Outside of code: music, medieval art, and psychology
 
-### Skills
+---
 
+### ➡️ Check out my latest AI Saas lol - [AffordAbled](https://icy-dune-025d50600.6.azurestaticapps.net/)
 
+---
+
+### 🛠️ Core Stack
+
+**Languages:** Python · TypeScript · SQL · C#
+
+**AI / Agentic Development:**
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="" target="_blank" rel="noreferrer"><img src="https://blog.langchain.dev/content/images/2023/09/LangChain_Logo-1.png" width="36" height="36" alt="LangChain" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="36" height="36" alt=".NET" /></a>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic%20Claude-191919?style=flat" />
 </p>
 
+**Full Stack:**
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="36" height="36" alt=".NET"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS"/>
+</p>
 
-### Socials
+**Data & Infra:**
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/HazSyl1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/HazSyl1" target="_blank" rel="noreferrer"> <picture> <img src="https://www.freeiconspng.com/uploads/--in-blow-to-crafty-brand-odes-instagram-adopts-minimalist-new-logo-16.jpg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hazsyl1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@HazSyl1/videos" target="_blank" rel="noreferrer"> <picture><img src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### 📫 Connect
 
-<b>My GitHub Stats</b>
+<p align="left">
+<a href="https://www.linkedin.com/in/hazsyl1" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
+<a href="https://www.youtube.com/@HazSyl1/videos" target="_blank" rel="noreferrer">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="32" height="32" />
+</a>
+</p>
 
-<a href="http://www.github.com/HazSyl1"><img src="https://github-readme-stats.vercel.app/api?username=HazSyl1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HazSyl1's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/HazSyl1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HazSyl1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 📊 GitHub Stats
 
-<a href="https://github.com/HazSyl1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazSyl1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/HazSyl1"><img src="https://github-readme-stats.vercel.app/api?username=HazSyl1&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="HazSyl1's GitHub stats" /></a>
+
+<a href="http://www.github.com/HazSyl1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HazSyl1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
+
+<a href="https://github.com/HazSyl1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazSyl1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" /></a>
