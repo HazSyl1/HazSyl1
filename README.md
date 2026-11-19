@@ -4,7 +4,7 @@
 
 I build multi-agent architectures and agentic workflows using LangGraph, LangChain, and production LLM systems — combined with a full-stack engineering background across Python, TypeScript/React, and .NET. I care about making AI systems reliable in production, not just impressive in a demo.
 
-📄 **Resume:** [Link]([https://drive.google.com/file/d/1DhPsnBcQzaDtb0ajFXYqgasdp9e7p0PT/view])
+📄 **Resume:** [Link](https://drive.google.com/file/d/1DhPsnBcQzaDtb0ajFXYqgasdp9e7p0PT/view)
 
 - 🌍 Based in Nagpur, India
 - ✉️ Reach me at [sarchaure911@gmail.com](mailto:sarchaure911@gmail.com)
